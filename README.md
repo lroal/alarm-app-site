@@ -11,4 +11,4 @@ Minimal static site for GitHub Pages hosting of the Alarm Clock privacy policy.
 
 Example URL:
 
-`https://<your-github-user>.github.io/<repo-name>/`
+`https://lroal.github.io/alarm-app-site/`
